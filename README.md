@@ -10,7 +10,7 @@ Goals: Parallel message passing Library (MPI) is used to accomplish the parallel
 
 Results: Impact of multi-kernel running on computation time. (a) Peer mode. (b) Master-slave mode,
 
-<img src="./MPI-Parallel-programming/task2.png" alt="task2" width="500px" style="zoom:10%;" />
+<img src="./MPI-Parallel-programming/task2.png" alt="task2" width="800px" style="zoom:10%;" />
 
 
 
