@@ -10,7 +10,7 @@ Goals: Parallel message passing Library (MPI) is used to accomplish the parallel
 
 Results: Impact of multi-kernel running on computation time. (a) Peer mode. (b) Master-slave mode,
 
-<img src="./MPI-Parallel-programming/task2.png" alt="task2" style="zoom:25%;" />
+<img src="./MPI-Parallel-programming/task2.png" alt="task2" style="zoom:10%;" />
 
 
 
@@ -26,4 +26,4 @@ $$
 
 Results: A phase diagrams of $T$ and $J$ ratio,
 
-<img src=".\Monte-Carlo-Sampling\PhaseD.png" alt="PhaseD" style="zoom:33%;" />
+<img src=".\Monte-Carlo-Sampling\PhaseD.png" alt="PhaseD" style="zoom:10%;" />
